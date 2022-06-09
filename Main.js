@@ -7,7 +7,7 @@ for (let i=0;i<pageNumbers.length;i++){
     pages[i] = document.getElementById(`page${pageNumbers[i]}`)
 }
 const subPages = []
-for (let i=0;i<42;i++){
+for (let i=0;i<58;i++){
     subPages[i] = document.getElementById(`subPage${i}`)
 }
 const nextButton = document.getElementById("nextButton")
